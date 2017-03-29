@@ -6,8 +6,10 @@
 ## Contents
 
 - [Tools](#tools)
-    - [Software for generative art](#software-for-generative-art)
+    - [Visual programming languages](#visual-programming-languages)
+    - [Frameworks and libraries](#frameworks-and-libraries)
     - [VJing software](@vjing-software)
+    - [Other tools](#other-tools)
     - [Hardware](#hardware)
 - [Learning Resources](#learning-resources)
     - [Books](#books)
@@ -19,19 +21,23 @@
 
 ## Tools
 
-### Software for generative art
+### Visual programming languages
 
+- [vvvv](https://vvvv.org/)
 - [Processing](https://processing.org/)
 - [p5.js](https://p5js.org/)
-- [OpenFrameworks](http://openframeworks.cc/)
-- [vvvv](https://vvvv.org/)
-- [Cinder](https://libcinder.org/)
+- [Touch designer](http://www.derivative.ca/)
 - [Max](https://cycling74.com/products/max/)
 - [Pure Data](https://puredata.info/)
 - [Quartz Composer](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html)
-- [Touch designer](http://www.derivative.ca/)
 - [Unity](https://unity3d.com/)
 - [Vuo](http://vuo.org/)
+
+
+### Frameworks and libraries
+
+- [OpenFrameworks](http://openframeworks.cc/)
+- [Cinder](https://libcinder.org/)
 - [three.js](https://threejs.org/)
 - [Paper.js](http://paperjs.org/)
 - [Scriptographer](https://scriptographer.org/)
@@ -41,6 +47,18 @@
 - [VDMX](https://vidvox.net/)
 - [Resolume](https://resolume.com/)
 - [Modul8](http://www.modul8.ch/)
+- [MadMapper](http://www.madmapper.com/)
+
+### Other tools
+
+- [syphon](http://syphon.v002.info/)
+
+### Sound programming languages
+
+- [SuperCollider](http://supercollider.sourceforge.net/)
+- [Csound](http://www.csounds.com/)
+- [ChucK](http://chuck.cs.princeton.edu/)
+- [Reaktor](http://www.native-instruments.com/…/kompl…/synths/reaktor-5/)
 
 ### Hardware
 
