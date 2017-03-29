@@ -1,4 +1,5 @@
-# Awesome Generative Art [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Generative Art 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Manually curated collection of Generative Art resources, tools and shiny things.
 
@@ -18,6 +19,7 @@
 - [Communities](#communities)
 - [Work](#work)
 - [Events](#events)
+- [Press](#press)
 
 
 ## Tools
@@ -151,6 +153,13 @@
 - [Ars Electronica](https://www.aec.at/news/)
 - [Signal Festival](http://www.signalfestival.com/)
 - [La Fête des Lumières](http://www.fetedeslumieres.lyon.fr/en)
+
+## Press
+
+- [HOLO magazine](http://www.creativeapplications.net/holo/)
+- [Make magazine](http://makezine.com/)
+- [The MagPi magazine](https://www.raspberrypi.org/magpi/)
+
 
 
 ## Contribute
