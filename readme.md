@@ -121,6 +121,7 @@
 
 - [Creative Applications Network](http://creativeapplications.net/)
 - [OpenProcessing](https://www.openprocessing.org/)
+- [Create Digital Music/Motion](http://cdm.link/)
 
 
 ## Communities
