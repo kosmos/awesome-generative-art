@@ -7,7 +7,7 @@
 
 - [Tools](#tools)
     - [Visual programming languages](#visual-programming-languages)
-    - [Frameworks and libraries](#frameworks-and-libraries)
+    - [Frameworks / Libraries / Engines / Languages](#frameworks-/-Libraries-/-Engines-/-Languages)
     - [VJing software](@vjing-software)
     - [Other tools](#other-tools)
     - [Hardware](#hardware)
@@ -58,6 +58,8 @@
 - [SuperCollider](http://supercollider.sourceforge.net/)
 - [Csound](http://www.csounds.com/)
 - [ChucK](http://chuck.cs.princeton.edu/)
+- [TidalCycles](https://tidalcycles.org/)
+- [Sonic Pi](http://sonic-pi.net/)
 - [Reaktor](http://www.native-instruments.com/…/kompl…/synths/reaktor-5/)
 
 ### Hardware
