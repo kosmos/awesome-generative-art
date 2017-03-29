@@ -7,10 +7,11 @@
 
 - [Tools](#tools)
     - [Visual programming languages](#visual-programming-languages)
-    - [Frameworks / Libraries / Engines / Languages](#frameworks-Libraries-Engines-Languages)
+    - [Frameworks, Libraries, Engines, Languages](#frameworks-Libraries-Engines-Languages)
     - [VJing software](@vjing-software)
     - [Other tools](#other-tools)
     - [Hardware](#hardware)
+    - [Sound programming languages](#sound-programming-languages)
 - [Learning Resources](#learning-resources)
     - [Books](#books)
     - [Courses](#courses)
@@ -31,7 +32,7 @@
 - [Vuo](http://vuo.org/)
 
 
-### Frameworks / Libraries / Engines / Languages
+### Frameworks, Libraries, Engines, Languages
 
 - [Processing](https://processing.org/)
 - [OpenFrameworks](http://openframeworks.cc/)
