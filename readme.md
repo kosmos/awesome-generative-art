@@ -115,6 +115,7 @@
 - [Getting started with Augmented Reality](https://www.coursera.org/learn/augmented-reality)
 - [Creative Coding](https://www.futurelearn.com/courses/creative-coding/)
 - [Survey of Music Technology](https://www.coursera.org/learn/music-technology)
+- [Learn to Code Electronic Music Tools with Javascript](https://www.futurelearn.com/courses/electronic-music-tools)
 
 ## Websites
 
