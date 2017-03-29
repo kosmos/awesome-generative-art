@@ -92,7 +92,14 @@
 - [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
 - [Interfacing with the Raspberry Pi](https://www.coursera.org/learn/raspberry-pi-interface)
 - [Getting started with Augmented Reality](https://www.coursera.org/learn/augmented-reality)
+- [Creative Coding](https://www.futurelearn.com/courses/creative-coding/)
 - [Survey of Music Technology](https://www.coursera.org/learn/music-technology)
+
+## Websites
+
+- [Creative Applications Network](http://creativeapplications.net/)
+- [OpenProcessing](https://www.openprocessing.org/)
+
 
 ## Communities
 
