@@ -1,5 +1,5 @@
 # Awesome Generative Art 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <script async defer src="https://genart.herokuapp.com/slackin.js"></script>
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Manually curated collection of Generative Art resources, tools and shiny things.
 
