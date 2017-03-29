@@ -17,6 +17,7 @@
     - [Books](#books)
     - [Courses](#courses)
 - [Video Channels](#video-channels)
+- [Selected artists](#selected-artists)
 - [Communities](#communities)
 - [Work](#work)
 - [Events](#events)
@@ -124,6 +125,7 @@
 - [Survey of Music Technology](https://www.coursera.org/learn/music-technology)
 - [Learn to Code Electronic Music Tools with Javascript](https://www.futurelearn.com/courses/electronic-music-tools)
 - [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
+- [Machine Learning for Artists](http://ml4a.github.io/index/)
 
 ## Websites
 
@@ -131,6 +133,11 @@
 - [OpenProcessing](https://www.openprocessing.org/)
 - [Create Digital Music/Motion](http://cdm.link/)
 
+## Selected artists
+
+- [Featured / United Visual Artists](https://uva.co.uk/)
+- [Anton Marini aka vade](http://vade.info/)
+- [Robert Hodgin aka flight404](http://roberthodgin.com/)
 
 ## Communities
 
