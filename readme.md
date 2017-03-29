@@ -16,6 +16,7 @@
 - [Learning Resources](#learning-resources)
     - [Books](#books)
     - [Courses](#courses)
+- [Video Channels](#video-channels)
 - [Communities](#communities)
 - [Work](#work)
 - [Events](#events)
@@ -132,6 +133,15 @@
 ## Communities
 
 - [Generative Art Slack](https://genart.herokuapp.com)
+
+## Video Channels
+
+- [AUDIO-VISUAL PERFORMANCE](https://vimeo.com/groups/avperformance)
+- [LeCollagiste VJ group on Vimeo](https://vimeo.com/groups/lecollagiste)
+- [TouchDesigner group on Vimeo](https://vimeo.com/groups/touchdesigner)
+- [Processing group on Vimeo](https://vimeo.com/groups/processing)
+- [MadMapper group on Vimeo](https://vimeo.com/groups/madmapper)
+- [Syphon group on Vimeo](https://vimeo.com/groups/syphon)
 
 ## Work
 
