@@ -6,7 +6,7 @@
 ## Contents
 
 - [Tools](#tools)
-- [Learning Resources](#Learning Resources)
+- [Learning Resources](#learning-resources)
 - [Communities](#communities)
 
 
@@ -15,6 +15,7 @@
 ### Software for generative art
 
 - [Processing](https://processing.org/)
+- [p5.js](https://p5js.org/)
 - [OpenFrameworks](http://openframeworks.cc/)
 - [vvvv](https://vvvv.org/)
 - [Cinder](https://libcinder.org/)
@@ -24,12 +25,20 @@
 - [Touch designer](http://www.derivative.ca/)
 - [Unity](https://unity3d.com/)
 - [Vuo](http://vuo.org/)
+- [three.js](https://threejs.org/)
+- [Paper.js](http://paperjs.org/)
+- [Scriptographer](https://scriptographer.org/)
 
 ### VJing software
 
 - [VDMX](https://vidvox.net/)
 - [Resolume](https://resolume.com/)
 - [Modul8](http://www.modul8.ch/)
+
+### Hardware
+
+- [Arduino](https://www.arduino.cc/)
+- [Raspberry Pi](https://www.raspberrypi.org/)
  
 
 ## Learning Resources
@@ -41,9 +50,17 @@
 
 ### Courses
 
+- [Creative Programming for Digital Media & Mobile Apps](https://www.coursera.org/learn/digitalmedia)
+- [openFrameworks Tutorial Series](https://www.youtube.com/watch?v=IKSTo_0pB28&index=51&list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr)
+- [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
+- [Interfacing with the Raspberry Pi](https://www.coursera.org/learn/raspberry-pi-interface)
+- [Getting started with Augmented Reality](https://www.coursera.org/learn/augmented-reality)
+- [Survey of Music Technology](https://www.coursera.org/learn/music-technology)
+
 ## Communities
 
 - [Generative Art Slack](https://genart.herokuapp.com)
+
 
 ## Contribute
 
