@@ -145,6 +145,12 @@
 - [Mapping Festival](http://mappingfestival.com/)
 - [Eyeo Festival](http://eyeofestival.com/)
 - [NODE](https://nodeforum.org/)
+- [MUTEK](http://www.mutek.org/)
+- [Live Performers Meeting](https://liveperformersmeeting.net/)
+- [Berlin Atonal](https://berlin-atonal.com/)
+- [Ars Electronica](https://www.aec.at/news/)
+- [Signal Festival](http://www.signalfestival.com/)
+- [La Fête des Lumières](http://www.fetedeslumieres.lyon.fr/en)
 
 
 ## Contribute
