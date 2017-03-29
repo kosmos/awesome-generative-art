@@ -13,6 +13,8 @@
     - [Books](#books)
     - [Courses](#courses)
 - [Communities](#communities)
+- [Work](#work)
+- [Events](#events)
 
 
 ## Tools
@@ -98,7 +100,7 @@
 
 ## Work
 
-- [Job board on ](http://www.creativeapplications.net/job-board/)
+- [Job board on creativeapplications.net](http://www.creativeapplications.net/job-board/)
 
 ## Events
 
