@@ -6,7 +6,12 @@
 ## Contents
 
 - [Tools](#tools)
+    - [Software for generative art](#software-for-generative-art)
+    - [VJing software](@vjing-software)
+    - [Hardware](#hardware)
 - [Learning Resources](#learning-resources)
+    - [Books](#books)
+    - [Courses](#courses)
 - [Communities](#communities)
 
 
@@ -90,6 +95,20 @@
 ## Communities
 
 - [Generative Art Slack](https://genart.herokuapp.com)
+
+## Work
+
+- [Job board on ](http://www.creativeapplications.net/job-board/)
+
+## Events
+
+- [OFFF](http://offf.barcelona/)
+- [Resonate Festival](http://resonate.io/)
+- [The Gray Area Festival](http://grayareafestival.io/)
+- [FIBER Festival](http://2017.fiberfestival.nl/)
+- [Mapping Festival](http://mappingfestival.com/)
+- [Eyeo Festival](http://eyeofestival.com/)
+- [NODE](https://nodeforum.org/)
 
 
 ## Contribute
