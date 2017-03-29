@@ -7,8 +7,8 @@
 
 - [Tools](#tools)
     - [Visual programming languages](#visual-programming-languages)
-    - [Frameworks, Libraries, Engines, Languages](#frameworks-Libraries-Engines-Languages)
-    - [VJing software](@vjing-software)
+    - [Frameworks, Libraries, Engines, Languages](#Frameworks-Libraries-Engines-Languages)
+    - [VJing software](@VJing-software)
     - [Other tools](#other-tools)
     - [Hardware](#hardware)
     - [Sound programming languages](#sound-programming-languages)
