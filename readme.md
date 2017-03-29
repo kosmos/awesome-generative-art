@@ -1,32 +1,35 @@
 # Awesome Generative Art [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> generative art
+> Generative art
 
 
 ## Contents
 
 - [Tools](#tools)
-- [Another Section](#another-section)
+- [Learning Resources](#Learning Resources)
+- [Communities](#Communities)
 
 
 ## Tools
 
-About this section. Optional. Keep this short and focus on the list.
+### Software for generative art
 
-- [Processing](http://example.com)
-- [OpenFrameworks]()
-- [vvvv](http://example.com)
-- Cinder
-- Max/MSP/Jitter
-- Pure-data
-- Quartz Composer
-- Touch designer
-- Unity
-- vuo
+- [Processing](https://processing.org/)
+- [OpenFrameworks](http://openframeworks.cc/)
+- [vvvv](https://vvvv.org/)
+- [Cinder](https://libcinder.org/)
+- [Max](https://cycling74.com/products/max/)
+- [Pure Data](https://puredata.info/)
+- [Quartz Composer](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html)
+- [Touch designer](http://www.derivative.ca/)
+- [Unity](https://unity3d.com/)
+- [Vuo](http://vuo.org/)
+
+### VJing software
 
 - [VDMX](https://vidvox.net/)
 - [Resolume](https://resolume.com/)
-- Modul8
+- [Modul8](http://www.modul8.ch/)
  
 
 ## Learning Resources
@@ -38,6 +41,9 @@ About this section. Optional. Keep this short and focus on the list.
 
 ### Courses
 
+## Communities
+
+- [Generative Art Slack](Generative Art)
 
 ## Contribute
 
