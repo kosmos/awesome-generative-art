@@ -122,6 +122,7 @@
 - [Creative Coding](https://www.futurelearn.com/courses/creative-coding/)
 - [Survey of Music Technology](https://www.coursera.org/learn/music-technology)
 - [Learn to Code Electronic Music Tools with Javascript](https://www.futurelearn.com/courses/electronic-music-tools)
+- [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
 
 ## Websites
 
