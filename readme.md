@@ -7,8 +7,8 @@
 
 - [Tools](#tools)
     - [Visual programming languages](#visual-programming-languages)
-    - [Frameworks, Libraries, Engines, Languages](#Frameworks-Libraries-Engines-Languages)
-    - [VJing software](@VJing-software)
+    - [Frameworks, Libraries, Engines, Languages](#frameworks-libraries-engines-languages)
+    - [VJing software](@vjing-software)
     - [Other tools](#other-tools)
     - [Hardware](#hardware)
     - [Sound programming languages](#sound-programming-languages)
@@ -32,7 +32,7 @@
 - [Vuo](http://vuo.org/)
 
 
-### Frameworks, Libraries, Engines, Languages
+### Frameworks, libraries, engines, languages
 
 - [Processing](https://processing.org/)
 - [OpenFrameworks](http://openframeworks.cc/)
@@ -43,7 +43,7 @@
 - [Scriptographer](https://scriptographer.org/)
 - [Unity](https://unity3d.com/)
 
-### VJing software
+### Vjing software
 
 - [VDMX](https://vidvox.net/)
 - [Resolume](https://resolume.com/)
