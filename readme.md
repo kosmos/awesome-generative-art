@@ -7,7 +7,7 @@
 
 - [Tools](#tools)
 - [Learning Resources](#Learning Resources)
-- [Communities](#Communities)
+- [Communities](#communities)
 
 
 ## Tools
@@ -43,7 +43,7 @@
 
 ## Communities
 
-- [Generative Art Slack](Generative Art)
+- [Generative Art Slack](https://genart.herokuapp.com)
 
 ## Contribute
 
