@@ -48,11 +48,14 @@
 - [VDMX](https://vidvox.net/)
 - [Resolume](https://resolume.com/)
 - [Modul8](http://www.modul8.ch/)
+- [CoGe VJ](http://imimot.com/cogevj/)
 - [MadMapper](http://www.madmapper.com/)
 
 ### Other tools
 
 - [syphon](http://syphon.v002.info/)
+- [Vezér](http://imimot.com/vezer/)
+- [Mitti](http://imimot.com/mitti/)
 
 ### Sound programming languages
 
