@@ -31,7 +31,7 @@
 - [Vuo](http://vuo.org/)
 
 
-### Frameworks and libraries
+### Frameworks / Libraries / Engines / Languages
 
 - [Processing](https://processing.org/)
 - [OpenFrameworks](http://openframeworks.cc/)
