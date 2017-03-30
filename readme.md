@@ -29,7 +29,7 @@
 
 ### Visual programming languages
 
-- [vvvv](https://vvvv.org/) (Win)
+- [vvvv](https://vvvv.org/) [Win]
 - [Touch designer](http://www.derivative.ca/) [Win]
 - [Max](https://cycling74.com/products/max/) [Mac, Win]
 - [Pure Data](https://puredata.info/) [Mac, Win, Linux]
@@ -39,7 +39,7 @@
 
 ### Frameworks, libraries, engines, languages
 
-- [Processing](https://processing.org/) [Mac, Win, ]
+- [Processing](https://processing.org/) [Mac, Win, Linux]
 - [OpenFrameworks](http://openframeworks.cc/) [Mac, Win, Linux, iOS, Android]
 - [Cinder](https://libcinder.org/) [Mac, Win]
 - [three.js](https://threejs.org/) [Web]
