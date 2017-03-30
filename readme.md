@@ -134,6 +134,7 @@
 - [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
 - [Machine Learning for Artists](http://ml4a.github.io/index/)
 - [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
+- [The Coding Train by Daniel Shiffman](https://www.youtube.com/user/shiffman/featured)
 
 ## Websites
 
