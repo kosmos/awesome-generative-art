@@ -9,7 +9,8 @@
 - [Tools](#tools)
     - [Visual programming languages](#visual-programming-languages)
     - [Frameworks, Libraries, Engines, Languages](#frameworks-libraries-engines-languages)
-    - [VJing software](@vjing-software)
+    - [VJing software](#vjing-software)
+    - [Codecs](#codecs)
     - [Other tools](#other-tools)
     - [Hardware](#hardware)
     - [Sound programming languages](#sound-programming-languages)
@@ -28,39 +29,44 @@
 
 ### Visual programming languages
 
-- [vvvv](https://vvvv.org/)
-- [Touch designer](http://www.derivative.ca/)
-- [Max](https://cycling74.com/products/max/)
-- [Pure Data](https://puredata.info/)
-- [Quartz Composer](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html)
-- [Vuo](http://vuo.org/)
+- [vvvv](https://vvvv.org/) (Win)
+- [Touch designer](http://www.derivative.ca/) [Win]
+- [Max](https://cycling74.com/products/max/) [Mac, Win]
+- [Pure Data](https://puredata.info/) [Mac, Win, Linux]
+- [Quartz Composer](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html) [Mac]
+- [Vuo](http://vuo.org/) [Mac]
 
 
 ### Frameworks, libraries, engines, languages
 
-- [Processing](https://processing.org/)
-- [OpenFrameworks](http://openframeworks.cc/)
-- [Cinder](https://libcinder.org/)
-- [three.js](https://threejs.org/)
-- [Paper.js](http://paperjs.org/)
-- [p5.js](https://p5js.org/)
+- [Processing](https://processing.org/) [Mac, Win, ]
+- [OpenFrameworks](http://openframeworks.cc/) [Mac, Win, Linux, iOS, Android]
+- [Cinder](https://libcinder.org/) [Mac, Win]
+- [three.js](https://threejs.org/) [Web]
+- [Paper.js](http://paperjs.org/) [Web]
+- [p5.js](https://p5js.org/) [Web]
 - [Scriptographer](https://scriptographer.org/)
-- [Unity](https://unity3d.com/)
+- [Unity](https://unity3d.com/) [Mac, Win]
 
 ### Vjing software
 
-- [VDMX](https://vidvox.net/)
-- [Resolume](https://resolume.com/)
-- [Modul8](http://www.modul8.ch/)
-- [CoGe VJ](http://imimot.com/cogevj/)
-- [MadMapper](http://www.madmapper.com/)
+- [VDMX](https://vidvox.net/) [Mac]
+- [Resolume](https://resolume.com/) [Mac, Win]
+- [Modul8](http://www.modul8.ch/) [Mac]
+- [CoGe VJ](http://imimot.com/cogevj/) [Mac]
+- [MadMapper](http://www.madmapper.com/) [Mac]
+
+### Codecs
+
+- [DXV codec](https://resolume.com/download/) [Mac, Win]
+- [HAP codec](http://vdmx.vidvox.net/blog/hap) [Mac]
 
 ### Other tools
 
-- [Syphon](http://syphon.v002.info/)
-- [Spout](http://spout.zeal.co/)
-- [Vezér](http://imimot.com/vezer/)
-- [Mitti](http://imimot.com/mitti/)
+- [Syphon](http://syphon.v002.info/) [Mac]
+- [Spout](http://spout.zeal.co/) [Win]
+- [Vezér](http://imimot.com/vezer/) [Mac]
+- [Mitti](http://imimot.com/mitti/) [Mac]
 - [D3](http://www.d3technologies.com/)
 
 ### Sound programming languages
