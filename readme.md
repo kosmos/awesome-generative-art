@@ -57,7 +57,8 @@
 
 ### Other tools
 
-- [syphon](http://syphon.v002.info/)
+- [Syphon](http://syphon.v002.info/)
+- [Spout](http://spout.zeal.co/)
 - [Vezér](http://imimot.com/vezer/)
 - [Mitti](http://imimot.com/mitti/)
 - [D3](http://www.d3technologies.com/)
