@@ -41,7 +41,7 @@
 
 - [Processing](https://processing.org/) [Mac, Win, Linux]
 - [OpenFrameworks](http://openframeworks.cc/) [Mac, Win, Linux, iOS, Android]
-- [Cinder](https://libcinder.org/) [Mac, Win]
+- [Cinder](https://libcinder.org/) [Mac, Win, Linux, iOS, Android]
 - [three.js](https://threejs.org/) [Web]
 - [Paper.js](http://paperjs.org/) [Web]
 - [p5.js](https://p5js.org/) [Web]
