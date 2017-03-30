@@ -201,3 +201,8 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 To the extent possible under law, Kosmos has waived all copyright and
 related or neighboring rights to this work.
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/kosmos/awesome-generative-art/badge.svg?style=beer-square)](https://beerpay.io/kosmos/awesome-generative-art)  [![Beerpay](https://beerpay.io/kosmos/awesome-generative-art/make-wish.svg?style=flat-square)](https://beerpay.io/kosmos/awesome-generative-art?focus=wish)
