@@ -55,34 +55,44 @@
 - [Modul8](http://www.modul8.ch/) [Mac]
 - [CoGe VJ](http://imimot.com/cogevj/) [Mac]
 - [MadMapper](http://www.madmapper.com/) [Mac]
+- [Mitti](http://imimot.com/mitti/) [Mac]
 
 ### Codecs
 
 - [DXV codec](https://resolume.com/download/) [Mac, Win]
 - [HAP codec](http://vdmx.vidvox.net/blog/hap) [Mac]
 
+### Seqensors
+
+- [Vezér](http://imimot.com/vezer/) [Mac]
+- [Ableton Live](https://www.ableton.com/) [Mac, Win]
+- [D3](http://www.d3technologies.com/)
+
 ### Other tools
 
 - [Syphon](http://syphon.v002.info/) [Mac]
 - [Spout](http://spout.zeal.co/) [Win]
-- [Vezér](http://imimot.com/vezer/) [Mac]
-- [Mitti](http://imimot.com/mitti/) [Mac]
-- [D3](http://www.d3technologies.com/)
 
 ### Sound programming languages
 
-- [SuperCollider](http://supercollider.sourceforge.net/)
-- [Csound](http://www.csounds.com/)
-- [ChucK](http://chuck.cs.princeton.edu/)
-- [TidalCycles](https://tidalcycles.org/)
-- [Sonic Pi](http://sonic-pi.net/)
-- [Reaktor](http://www.native-instruments.com/…/kompl…/synths/reaktor-5/)
+- [SuperCollider](http://supercollider.sourceforge.net/) [Mac, Win, Linux]
+- [Csound](http://www.csounds.com/) [Mac, Win, Linux, iOS, Android, Web]
+- [ChucK](http://chuck.cs.princeton.edu/) [Mac, Win, Linux]
+- [TidalCycles](https://tidalcycles.org/) [Mac, Win, Linux]
+- [Sonic Pi](http://sonic-pi.net/) [Mac, Win, Linux, Raspberry Pi]
+- [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) [Mac, Win]
 
 ### Hardware
 
+#### Platforms
+
 - [Arduino](https://www.arduino.cc/)
 - [Raspberry Pi](https://www.raspberrypi.org/)
- 
+
+#### Controllers
+
+- [Kinect](https://developer.microsoft.com/en-us/windows/kinect)
+- [Leap Motion](https://www.leapmotion.com/) 
 
 ## Learning Resources
 
@@ -135,6 +145,7 @@
 - [Machine Learning for Artists](http://ml4a.github.io/index/)
 - [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
 - [The Coding Train by Daniel Shiffman](https://www.youtube.com/user/shiffman/featured)
+- [Pixar in a Box - Effects](https://www.khanacademy.org/partner-content/pixar/effects)
 
 ## Websites
 
@@ -147,6 +158,8 @@
 - [Featured / United Visual Artists](https://uva.co.uk/)
 - [Anton Marini aka vade](http://vade.info/)
 - [Robert Hodgin aka flight404](http://roberthodgin.com/)
+- [Antivj](http://antivj.com/)
+- [onformative](http://www.onformative.com/)
 
 ## Communities
 
