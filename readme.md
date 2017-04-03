@@ -146,6 +146,7 @@
 - [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
 - [The Coding Train by Daniel Shiffman](https://www.youtube.com/user/shiffman/featured)
 - [Pixar in a Box - Effects](https://www.khanacademy.org/partner-content/pixar/effects)
+- [Programming MAX: Structuring Interactive Software for Digital Arts](http://online.stanford.edu/course/programming-max-structuring-interactive-software-digital-arts)
 
 ## Websites
 
