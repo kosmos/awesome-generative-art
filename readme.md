@@ -130,6 +130,7 @@
 - [Einführung ins Programmieren mit Processing (De)](http://www.lulu.com/shop/matthias-wolf/einf%C3%BChrung-ins-programmieren-mit-processing/paperback/product-22054219.html)
 - [Processing - eine Einführung in die Programmierung (De)](http://www.lulu.com/shop/andres-wanner/processing-eine-einf%C3%BChrung-in-die-programmierung-version-11/paperback/product-12095647.html)
 - [Programming for Artists (Ru) FREE](http://ptahi.ru/2016/02/07/programming-for-artists/)
+- [The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe](http://thebookofshaders.com/)
 
 
 ### Courses
