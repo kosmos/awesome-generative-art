@@ -11,9 +11,12 @@
     - [Frameworks, Libraries, Engines, Languages](#frameworks-libraries-engines-languages)
     - [VJing software](#vjing-software)
     - [Codecs](#codecs)
+    - [Seqensors](#seqensors)
     - [Other tools](#other-tools)
-    - [Hardware](#hardware)
     - [Sound programming languages](#sound-programming-languages)
+    - [Hardware](#hardware)
+        - [Platforms](#platforms)
+        - [Controllers](#controllers)
 - [Learning Resources](#learning-resources)
     - [Books](#books)
     - [Courses](#courses)
@@ -147,12 +150,14 @@
 - [The Coding Train by Daniel Shiffman](https://www.youtube.com/user/shiffman/featured)
 - [Pixar in a Box - Effects](https://www.khanacademy.org/partner-content/pixar/effects)
 - [Programming MAX: Structuring Interactive Software for Digital Arts](http://online.stanford.edu/course/programming-max-structuring-interactive-software-digital-arts)
+- [inconvergent · A Study of Generative Algorithms](http://inconvergent.net/)
 
 ## Websites
 
 - [Creative Applications Network](http://creativeapplications.net/)
 - [OpenProcessing](https://www.openprocessing.org/)
 - [Create Digital Music/Motion](http://cdm.link/)
+- [Field](https://www.field.io/)
 
 ## Selected artists
 
