@@ -12,13 +12,16 @@
     - [VJing software](#vjing-software)
     - [Codecs](#codecs)
     - [Seqensors](#seqensors)
-    - [Other tools](#other-tools)
     - [Sound programming languages](#sound-programming-languages)
+    - [Software controllers](#software-controllers)
+    - [Other tools](#other-tools)
     - [Hardware](#hardware)
         - [Platforms](#platforms)
         - [Controllers](#controllers)
 - [Learning Resources](#learning-resources)
     - [Books](#books)
+        - [Theory](#theory)
+        - [Practice](#practice)
     - [Courses](#courses)
 - [Video Channels](#video-channels)
 - [Selected artists](#selected-artists)
@@ -50,6 +53,7 @@
 - [p5.js](https://p5js.org/) [Web]
 - [Scriptographer](https://scriptographer.org/)
 - [Unity](https://unity3d.com/) [Mac, Win]
+- [KodeLife](https://hexler.net/software/kodelife) [Mac, Win, Linux]
 
 ### Vjing software
 
@@ -59,6 +63,7 @@
 - [CoGe VJ](http://imimot.com/cogevj/) [Mac]
 - [MadMapper](http://www.madmapper.com/) [Mac]
 - [Mitti](http://imimot.com/mitti/) [Mac]
+- [TouchViZ](https://hexler.net/software/touchviz) [iOS]
 
 ### Codecs
 
@@ -71,11 +76,6 @@
 - [Ableton Live](https://www.ableton.com/) [Mac, Win]
 - [D3](http://www.d3technologies.com/)
 
-### Other tools
-
-- [Syphon](http://syphon.v002.info/) [Mac]
-- [Spout](http://spout.zeal.co/) [Win]
-
 ### Sound programming languages
 
 - [SuperCollider](http://supercollider.sourceforge.net/) [Mac, Win, Linux]
@@ -84,6 +84,15 @@
 - [TidalCycles](https://tidalcycles.org/) [Mac, Win, Linux]
 - [Sonic Pi](http://sonic-pi.net/) [Mac, Win, Linux, Raspberry Pi]
 - [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) [Mac, Win]
+
+### Software controllers
+
+- [TouchOSC](https://hexler.net/software/touchosc) [iOS, Android]
+
+### Other tools
+
+- [Syphon](http://syphon.v002.info/) [Mac]
+- [Spout](http://spout.zeal.co/) [Win]
 
 ### Hardware
 
@@ -101,26 +110,53 @@
 
 ### Books
 
-- [Generative Design](http://amzn.to/2nc11cZ)
-- [Processing: A Programming Handbook for Visual Designers, Second Edition](http://amzn.to/2oDeB9u)
-- [Make: Getting Started with Processing, Second Edition](http://amzn.to/2nFfSrv)
-- [Learning Processing, Second Edition: A Beginner's Guide to Programming Images, Animation, and Interaction](http://amzn.to/2nYUijx)
-- [The Nature of Code: Simulating Natural Systems with Processing](http://amzn.to/2oEmafF)
+#### Theory
+
+- [New Media Art](http://amzn.to/2nREjXO) [history]
+- [Art and Electronic Media](http://amzn.to/2pmAMk1) [history]
+- [Aesthetics of Interaction in Digital Art](http://amzn.to/2oAJwAd) [history]
+- [Internet Art (World of Art)](http://amzn.to/2ogksgV) [history]
+- [Digital Art (World of Art)](http://amzn.to/2ok0AbT) [history]
+- [Digital Arts: An Introduction to New Media (Berg New Media Series)](http://amzn.to/2pFJ9no) [history]
+- [Art Pocket Digital Art](http://amzn.to/2pFIMcm) [history]
+- [The World of Digital Art](http://amzn.to/2nRPHmt) [history]
+- [Form+Code in Design, Art, and Architecture](http://amzn.to/2oDxLdS) [history]
+
+#### Practice
+
+- [Generative Design](http://amzn.to/2nc11cZ) [algorithms, processing, vvvv]
+- [Processing: A Programming Handbook for Visual Designers, Second Edition](http://amzn.to/2oDeB9u) [processing]
+- [Make: Getting Started with Processing, Second Edition](http://amzn.to/2nFfSrv) [processing]
+- [Learning Processing, Second Edition: A Beginner's Guide to Programming Images, Animation, and Interaction](http://amzn.to/2nYUijx) [processing]
+- [The Nature of Code: Simulating Natural Systems with Processing](http://amzn.to/2oEmafF) [processing]
 - [Visualizing Data](http://amzn.to/2p2j29Y)
 - [The SparkFun Guide to Processing](http://amzn.to/2oEtQOS)
 - [Processing: Creative Coding and Generative Art in Processing 2](http://amzn.to/2nc3nrY)
-- [Processing for Visual Artists: How to Create Expressive Images and Interactive Art](http://amzn.to/2oEdTZ5)
-- [Processing: Creative Coding and Computational Art (Foundation)](http://amzn.to/2oEoPpI)
-- [The Essential Guide to Processing for Flash Developers](http://amzn.to/2oErakj)
+- [Processing for Visual Artists: How to Create Expressive Images and Interactive Art](http://amzn.to/2oEdTZ5) [processing]
+- [Processing: Creative Coding and Computational Art (Foundation)](http://amzn.to/2oEoPpI) [processing]
+- [The Essential Guide to Processing for Flash Developers](http://amzn.to/2oErakj) [processing]
 - [Programming Interactivity](http://amzn.to/2oK1b8h)
-- [Generative Art: A Practical Guide Using Processing](http://amzn.to/2oK64hC)
-- [Algorithms for Visual Design Using the Processing Language](http://amzn.to/2nc48kO)
+- [Generative Art: A Practical Guide Using Processing](http://amzn.to/2oK64hC) [processing]
+- [Algorithms for Visual Design Using the Processing Language](http://amzn.to/2nc48kO) [processing]
 - [Data-driven Graphic Design: Creative Coding for Visual Communication](http://amzn.to/2nYVFib)
 - [Making Things Talk: Using Sensors, Networks, and Arduino to see, hear, and feel your world](http://amzn.to/2oEaeKF)
 - [Making Things See: 3D vision with Kinect, Processing, Arduino, and MakerBot](http://amzn.to/2oEm7QP)
+- [Kinect in Motion - Audio and Visual Tracking by Example](http://amzn.to/2ojB2fg) [kinect, c#]
+- [Kinect Hacks: Tips & Tools for Motion and Pattern Detection](http://amzn.to/2oANjO4) [kinect, processing, openframeworks]
+- [Beginning Microsoft Kinect for Windows SDK 2.0: Motion and Depth Sensing for Natural User Interfaces](http://amzn.to/2oDy7Bs) [kinect]
+- [Kinect for Windows SDK Programming Guide](http://amzn.to/2oDt8AJ) [kinect, c#]
+- [Kinect Open Source Programming Secrets: Hacking the Kinect with OpenNI, NITE, and Java](http://amzn.to/2ok5shf) [kinect]
+- [Human Gait Recognition Using Body Measures and Joints Angles: A Study Using Microsoft Kinect](http://amzn.to/2oDmxq2) [kinect]
+- [Beginning Kinect Programming with the Microsoft Kinect SDK (Expert's Voice in Microsoft)](http://amzn.to/2nRIvGY) [kinect]
+- [Arduino and Kinect Projects: Design, Build, Blow Their Minds (Technology in Action)](http://amzn.to/2oDE4yp) [kinect, arduino]
+- [Programming with the Kinect for Windows Software Development Kit (Developer Reference)](http://amzn.to/2oASRYZ) [kinect, c#]
+- [Augmented Reality with Kinect](http://amzn.to/2nRIAKD) [kinect, ar]
+- [Meet the Kinect: An Introduction to Programming Natural User Interfaces (Technology in Action)](http://amzn.to/2nRWdcQ) [kinect]
+- [Hacking the Kinect (Technology in Action)](http://amzn.to/2ogm0ru) [kinect]
+- [Learning Quartz Composer: A Hands-On Guide to Creating Motion Graphics with Quartz Composer](http://amzn.to/2oNmE2x) [quartz composer]
 - [Rapid Android Development: Build Rich, Sensor-Based Applications with Processing](https://pragprog.com/book/dsproc/rapid-android-development)
-- [Processing 2: Creative Programming Cookbook](https://www.packtpub.com/hardware-and-creative/processing-2-creative-programming-cookbook)
-- [Processing 2: Creative Coding Hotshot](http://www.packtpub.com/processing-2-creative-coding-hotshot/book)
+- [Processing 2: Creative Programming Cookbook](https://www.packtpub.com/hardware-and-creative/processing-2-creative-programming-cookbook) [processing]
+- [Processing 2: Creative Coding Hotshot](http://www.packtpub.com/processing-2-creative-coding-hotshot/book) [processing]
 - [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://amzn.to/2nFocI1)
 - [Getting Started with Arduino: The Open Source Electronics Prototyping Platform (Make)](http://amzn.to/2oD95Uc)
 - [Building Wireless Sensor Networks: with ZigBee, XBee, Arduino, and Processing](http://amzn.to/2oK50ue)
@@ -131,6 +167,7 @@
 - [Processing - eine Einführung in die Programmierung (De)](http://www.lulu.com/shop/andres-wanner/processing-eine-einf%C3%BChrung-in-die-programmierung-version-11/paperback/product-12095647.html)
 - [Programming for Artists (Ru) FREE](http://ptahi.ru/2016/02/07/programming-for-artists/)
 - [The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe](http://thebookofshaders.com/)
+- [Prototyping Interfaces: Interaktives Skizzieren mit vvvv](http://amzn.to/2p7FMJy) [vvvv]
 
 
 ### Courses
@@ -152,6 +189,9 @@
 - [Pixar in a Box - Effects](https://www.khanacademy.org/partner-content/pixar/effects)
 - [Programming MAX: Structuring Interactive Software for Digital Arts](http://online.stanford.edu/course/programming-max-structuring-interactive-software-digital-arts)
 - [inconvergent · A Study of Generative Algorithms](http://inconvergent.net/)
+- [Building a Real Application With Kinect](https://www.pluralsight.com/courses/building-real-kinect-application) [kinect]
+- [Kinect Interaction with WPF and Beyond](https://www.pluralsight.com/courses/using-kinect-interaction-wpf) [kinect]
+- [Developing for Leap Motion in C#](https://www.pluralsight.com/courses/developing-leap-motion-csharp) [leap motion]
 
 ## Websites
 
