@@ -192,6 +192,7 @@
 - [Building a Real Application With Kinect](https://www.pluralsight.com/courses/building-real-kinect-application) [kinect]
 - [Kinect Interaction with WPF and Beyond](https://www.pluralsight.com/courses/using-kinect-interaction-wpf) [kinect]
 - [Developing for Leap Motion in C#](https://www.pluralsight.com/courses/developing-leap-motion-csharp) [leap motion]
+- [Physics-Based Sound Synthesis for Games and Interactive Systems](https://www.kadenze.com/courses/physics-based-sound-synthesis-for-games-and-interactive-systems-iv/info) [audio, chuck]
 
 ## Websites
 
