@@ -193,6 +193,9 @@
 - [Kinect Interaction with WPF and Beyond](https://www.pluralsight.com/courses/using-kinect-interaction-wpf) [kinect]
 - [Developing for Leap Motion in C#](https://www.pluralsight.com/courses/developing-leap-motion-csharp) [leap motion]
 - [Physics-Based Sound Synthesis for Games and Interactive Systems](https://www.kadenze.com/courses/physics-based-sound-synthesis-for-games-and-interactive-systems-iv/info) [audio, chuck]
+- [Sound Synthesis Using Reaktor](https://www.kadenze.com/courses/sound-synthesis-using-reaktor/info) [audio, reaktor]
+- [The Nature of Code](https://www.kadenze.com/courses/the-nature-of-code/info) [p5.js]
+- [Introduction to Programming for Musicians and Digital Artists](https://www.kadenze.com/courses/introduction-to-programming-for-musicians-and-digital-artists/info) [audio, chuck]
 
 ## Websites
 
