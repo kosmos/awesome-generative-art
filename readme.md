@@ -36,7 +36,7 @@
 ### Visual programming languages
 
 - [vvvv](https://vvvv.org/) [Win]
-- [Touch designer](http://www.derivative.ca/) [Win]
+- [Touch designer](http://www.derivative.ca/) [Mac, Win]
 - [Max](https://cycling74.com/products/max/) [Mac, Win]
 - [Pure Data](https://puredata.info/) [Mac, Win, Linux]
 - [Quartz Composer](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html) [Mac]
@@ -69,7 +69,7 @@
 ### Codecs
 
 - [DXV codec](https://resolume.com/download/) [Mac, Win]
-- [HAP codec](http://vdmx.vidvox.net/blog/hap) [Mac]
+- [HAP codec](https://github.com/Vidvox/hap-qt-codec) [Mac, Win]
 
 ### Seqensors
 
