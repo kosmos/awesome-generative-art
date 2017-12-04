@@ -131,6 +131,8 @@
 - [Generative Design](http://amzn.to/2nc11cZ) [algorithms, processing, vvvv]
 - [Processing: A Programming Handbook for Visual Designers, Second Edition](http://amzn.to/2oDeB9u) [processing]
 - [Make: Getting Started with Processing, Second Edition](http://amzn.to/2nFfSrv) [processing]
+- [Make: Getting Started with p5.js](http://amzn.to/2A4hDte) [p5.js]
+- [Make: Getting Started with Processing.py](http://amzn.to/2igtIQT) [processing.py]
 - [Learning Processing, Second Edition: A Beginner's Guide to Programming Images, Animation, and Interaction](http://amzn.to/2nYUijx) [processing]
 - [The Nature of Code: Simulating Natural Systems with Processing](http://amzn.to/2oEmafF) [processing]
 - [Visualizing Data](http://amzn.to/2p2j29Y)
