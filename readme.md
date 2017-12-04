@@ -45,7 +45,8 @@
 
 ### Frameworks, libraries, engines, languages
 
-- [Processing](https://processing.org/) [Mac, Win, Linux]
+- [Processing](https://processing.org/) [Mac, Win, Linux, Android]
+- [Processing Python Mode](https://py.processing.org/) [Mac, Win, Linux]
 - [OpenFrameworks](http://openframeworks.cc/) [Mac, Win, Linux, iOS, Android]
 - [Cinder](https://libcinder.org/) [Mac, Win, Linux, iOS, Android]
 - [three.js](https://threejs.org/) [Web]
@@ -115,12 +116,15 @@
 - [New Media Art](http://amzn.to/2nREjXO) [history]
 - [Art and Electronic Media](http://amzn.to/2pmAMk1) [history]
 - [Aesthetics of Interaction in Digital Art](http://amzn.to/2oAJwAd) [history]
+- [Aesthetic Computing](http://amzn.to/2oD6Nof) [history]
 - [Internet Art (World of Art)](http://amzn.to/2ogksgV) [history]
 - [Digital Art (World of Art)](http://amzn.to/2ok0AbT) [history]
 - [Digital Arts: An Introduction to New Media (Berg New Media Series)](http://amzn.to/2pFJ9no) [history]
 - [Art Pocket Digital Art](http://amzn.to/2pFIMcm) [history]
 - [The World of Digital Art](http://amzn.to/2nRPHmt) [history]
 - [Form+Code in Design, Art, and Architecture](http://amzn.to/2oDxLdS) [history]
+- [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://amzn.to/2nFocI1) [history]
+
 
 #### Practice
 
@@ -157,11 +161,9 @@
 - [Rapid Android Development: Build Rich, Sensor-Based Applications with Processing](https://pragprog.com/book/dsproc/rapid-android-development)
 - [Processing 2: Creative Programming Cookbook](https://www.packtpub.com/hardware-and-creative/processing-2-creative-programming-cookbook) [processing]
 - [Processing 2: Creative Coding Hotshot](http://www.packtpub.com/processing-2-creative-coding-hotshot/book) [processing]
-- [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://amzn.to/2nFocI1)
 - [Getting Started with Arduino: The Open Source Electronics Prototyping Platform (Make)](http://amzn.to/2oD95Uc)
 - [Building Wireless Sensor Networks: with ZigBee, XBee, Arduino, and Processing](http://amzn.to/2oK50ue)
 - [Physical Computing: Sensing and Controlling the Physical World with Computers](http://amzn.to/2oE8JMQ)
-- [Aesthetic Computing](http://amzn.to/2oD6Nof)
 - [Analog In, Digital Out: Brendan Dawes on Interaction Design](http://amzn.to/2nFoFtA)
 - [Einführung ins Programmieren mit Processing (De)](http://www.lulu.com/shop/matthias-wolf/einf%C3%BChrung-ins-programmieren-mit-processing/paperback/product-22054219.html)
 - [Processing - eine Einführung in die Programmierung (De)](http://www.lulu.com/shop/andres-wanner/processing-eine-einf%C3%BChrung-in-die-programmierung-version-11/paperback/product-12095647.html)
@@ -185,7 +187,6 @@
 - [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
 - [Machine Learning for Artists](http://ml4a.github.io/index/)
 - [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
-- [The Coding Train by Daniel Shiffman](https://www.youtube.com/user/shiffman/featured)
 - [Pixar in a Box - Effects](https://www.khanacademy.org/partner-content/pixar/effects)
 - [Programming MAX: Structuring Interactive Software for Digital Arts](http://online.stanford.edu/course/programming-max-structuring-interactive-software-digital-arts)
 - [inconvergent · A Study of Generative Algorithms](http://inconvergent.net/)
@@ -219,6 +220,7 @@
 
 ## Video Channels
 
+- [The Coding Train by Daniel Shiffman](https://www.youtube.com/user/shiffman/featured)
 - [AUDIO-VISUAL PERFORMANCE](https://vimeo.com/groups/avperformance)
 - [LeCollagiste VJ group on Vimeo](https://vimeo.com/groups/lecollagiste)
 - [TouchDesigner group on Vimeo](https://vimeo.com/groups/touchdesigner)
