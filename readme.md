@@ -184,8 +184,9 @@
 - [Creative Coding](https://www.futurelearn.com/courses/creative-coding/)
 - [Survey of Music Technology](https://www.coursera.org/learn/music-technology)
 - [Learn to Code Electronic Music Tools with Javascript](https://www.futurelearn.com/courses/electronic-music-tools)
-- [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
-- [Machine Learning for Artists](http://ml4a.github.io/index/)
+- [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info) [ml]
+- [Machine Learning for Artists](http://ml4a.github.io/index/) [ml]
+- [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info) [ml]
 - [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
 - [Pixar in a Box - Effects](https://www.khanacademy.org/partner-content/pixar/effects)
 - [Programming MAX: Structuring Interactive Software for Digital Arts](http://online.stanford.edu/course/programming-max-structuring-interactive-software-digital-arts)
@@ -195,8 +196,15 @@
 - [Developing for Leap Motion in C#](https://www.pluralsight.com/courses/developing-leap-motion-csharp) [leap motion]
 - [Physics-Based Sound Synthesis for Games and Interactive Systems](https://www.kadenze.com/courses/physics-based-sound-synthesis-for-games-and-interactive-systems-iv/info) [audio, chuck]
 - [Sound Synthesis Using Reaktor](https://www.kadenze.com/courses/sound-synthesis-using-reaktor/info) [audio, reaktor]
-- [The Nature of Code](https://www.kadenze.com/courses/the-nature-of-code/info) [p5.js]
+- [The Nature of Code](https://www.kadenze.com/courses/the-nature-of-code-ii/info) [p5.js]
 - [Introduction to Programming for Musicians and Digital Artists](https://www.kadenze.com/courses/introduction-to-programming-for-musicians-and-digital-artists/info) [audio, chuck]
+- [Introduction to Programming for the Visual Arts with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info) [p5.js]
+- [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform) [arduino]
+- [Interfacing with the Arduino](https://www.coursera.org/learn/interface-with-arduino) [arduino]
+- [3D Models for Virtual Reality](https://www.coursera.org/learn/3d-models-virtual-reality) [vr, unity]
+- [Games, Sensors and Media](https://www.coursera.org/learn/games) [ios]
+- [How Virtual Reality (VR) Works](https://www.edx.org/course/how-virtual-reality-vr-works-uc-san-diegox-cse165x-0) [vr]
+- [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291) [3d, webgl, three.js]
 
 ## Websites
 
