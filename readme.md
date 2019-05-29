@@ -41,7 +41,7 @@
 - [Pure Data](https://puredata.info/) [Mac, Win, Linux]
 - [Quartz Composer](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html) [Mac]
 - [Vuo](http://vuo.org/) [Mac]
-
+- [Isadora](https://troikatronix.com) [Mac, Win]
 
 ### Frameworks, libraries, engines, languages
 
