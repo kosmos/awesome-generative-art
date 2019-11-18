@@ -24,6 +24,7 @@
         - [Practice](#practice)
     - [Courses](#courses)
 - [Video Channels](#video-channels)
+- [Websites](#websites)
 - [Selected artists](#selected-artists)
 - [Communities](#communities)
 - [Work](#work)
@@ -226,6 +227,8 @@
 
 ## Communities
 
+- [Shadertoy](https://www.shadertoy.com/)
+- [Turtletoy](https://turtletoy.net/)
 - [Generative Art Slack](https://genart.herokuapp.com)
 
 ## Video Channels
