@@ -122,6 +122,7 @@
 - [The World of Digital Art](http://amzn.to/2nRPHmt) [history]
 - [Form+Code in Design, Art, and Architecture](http://amzn.to/2oDxLdS) [history]
 - [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://amzn.to/2nFocI1) [history]
+- [Code as Creative Medium: A Handbook for Computational Art and Design](https://amzn.to/3u96jqD) history]
 
 #### Practice
 
