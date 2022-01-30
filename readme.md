@@ -170,6 +170,7 @@
 - [The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe](http://thebookofshaders.com/)
 - [Prototyping Interfaces: Interaktives Skizzieren mit vvvv](http://amzn.to/2p7FMJy) [vvvv]
 - [Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play](https://amzn.to/33VB6Nb) [ml, gan]
+- [GANs in Action: Deep learning with Generative Adversarial Networks](https://amzn.to/3o5SrtB) [ml, gan]
 
 ### Courses
 
