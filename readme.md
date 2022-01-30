@@ -125,7 +125,7 @@
 
 #### Practice
 
-- [Generative Design](http://amzn.to/2nc11cZ) [algorithms, processing, vvvv]
+- [Generative Design: Visualize, Program, and Create with JavaScript in p5.js](https://amzn.to/3rbANX6) [algorithms, processing]
 - [Processing: A Programming Handbook for Visual Designers, Second Edition](http://amzn.to/2oDeB9u) [processing]
 - [Make: Getting Started with Processing, Second Edition](http://amzn.to/2nFfSrv) [processing]
 - [Make: Getting Started with p5.js](http://amzn.to/2A4hDte) [p5.js]
@@ -172,6 +172,7 @@
 - [Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play](https://amzn.to/33VB6Nb) [ml, gan]
 - [GANs in Action: Deep learning with Generative Adversarial Networks](https://amzn.to/3o5SrtB) [ml, gan]
 - [Generative AI with Python and TensorFlow 2: Create images, text, and music with VAEs, GANs, LSTMs, Transformer models](https://amzn.to/3AKTbcH) [ml, gan]
+- [Generative Art: Algorithms as Artistic Tool (Art & Artists)](https://amzn.to/3Geuk2b)
 
 ### Courses
 
