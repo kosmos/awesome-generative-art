@@ -139,7 +139,7 @@
 - [Processing: Creative Coding and Computational Art (Foundation)](http://amzn.to/2oEoPpI) [processing]
 - [The Essential Guide to Processing for Flash Developers](http://amzn.to/2oErakj) [processing]
 - [Programming Interactivity](http://amzn.to/2oK1b8h)
-- [Generative Art: A Practical Guide Using Processing](http://amzn.to/2oK64hC) [processing]
+- [Generative Art: A Practical Guide Using Processing](https://amzn.to/3IO3EqG) [processing]
 - [Algorithms for Visual Design Using the Processing Language](http://amzn.to/2nc48kO) [processing]
 - [Data-driven Graphic Design: Creative Coding for Visual Communication](http://amzn.to/2nYVFib)
 - [Making Things Talk: Using Sensors, Networks, and Arduino to see, hear, and feel your world](http://amzn.to/2oEaeKF)
@@ -171,6 +171,7 @@
 - [Prototyping Interfaces: Interaktives Skizzieren mit vvvv](http://amzn.to/2p7FMJy) [vvvv]
 - [Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play](https://amzn.to/33VB6Nb) [ml, gan]
 - [GANs in Action: Deep learning with Generative Adversarial Networks](https://amzn.to/3o5SrtB) [ml, gan]
+- [Generative AI with Python and TensorFlow 2: Create images, text, and music with VAEs, GANs, LSTMs, Transformer models](https://amzn.to/3AKTbcH) [ml, gan]
 
 ### Courses
 
