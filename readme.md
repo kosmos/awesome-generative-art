@@ -173,6 +173,7 @@
 - [GANs in Action: Deep learning with Generative Adversarial Networks](https://amzn.to/3o5SrtB) [ml, gan]
 - [Generative AI with Python and TensorFlow 2: Create images, text, and music with VAEs, GANs, LSTMs, Transformer models](https://amzn.to/3AKTbcH) [ml, gan]
 - [Generative Art: Algorithms as Artistic Tool (Art & Artists)](https://amzn.to/3Geuk2b)
+- [Coding Art: The Four Steps to Creative Programming with the Processing Language (Design Thinking)](https://amzn.to/3KW5DuF) [processing]
 
 ### Courses
 
