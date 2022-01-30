@@ -1,35 +1,34 @@
-# Awesome Generative Art 
+# Awesome Generative Art
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Manually curated collection of Generative Art resources, tools and shiny things.
 
-
 ## Contents
 
 - [Tools](#tools)
-    - [Visual programming languages](#visual-programming-languages)
-    - [Frameworks, Libraries, Engines, Languages](#frameworks-libraries-engines-languages)
-    - [VJing software](#vjing-software)
-    - [Codecs](#codecs)
-    - [Seqensors](#seqensors)
-    - [Sound programming languages](#sound-programming-languages)
-    - [Software controllers](#software-controllers)
-    - [Other tools](#other-tools)
-    - [Hardware](#hardware)
-        - [Platforms](#platforms)
-        - [Controllers](#controllers)
+  - [Visual programming languages](#visual-programming-languages)
+  - [Frameworks, Libraries, Engines, Languages](#frameworks-libraries-engines-languages)
+  - [VJing software](#vjing-software)
+  - [Codecs](#codecs)
+  - [Seqensors](#seqensors)
+  - [Sound programming languages](#sound-programming-languages)
+  - [Software controllers](#software-controllers)
+  - [Other tools](#other-tools)
+  - [Hardware](#hardware)
+    - [Platforms](#platforms)
+    - [Controllers](#controllers)
 - [Learning Resources](#learning-resources)
-    - [Books](#books)
-        - [Theory](#theory)
-        - [Practice](#practice)
-    - [Courses](#courses)
+  - [Books](#books)
+    - [Theory](#theory)
+    - [Practice](#practice)
+  - [Courses](#courses)
 - [Video Channels](#video-channels)
 - [Selected artists](#selected-artists)
 - [Communities](#communities)
 - [Work](#work)
 - [Events](#events)
 - [Press](#press)
-
 
 ## Tools
 
@@ -41,7 +40,6 @@
 - [Pure Data](https://puredata.info/) [Mac, Win, Linux]
 - [Quartz Composer](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html) [Mac]
 - [Vuo](http://vuo.org/) [Mac]
-
 
 ### Frameworks, libraries, engines, languages
 
@@ -105,7 +103,7 @@
 #### Controllers
 
 - [Kinect](https://developer.microsoft.com/en-us/windows/kinect)
-- [Leap Motion](https://www.leapmotion.com/) 
+- [Leap Motion](https://www.leapmotion.com/)
 
 ## Learning Resources
 
@@ -124,7 +122,6 @@
 - [The World of Digital Art](http://amzn.to/2nRPHmt) [history]
 - [Form+Code in Design, Art, and Architecture](http://amzn.to/2oDxLdS) [history]
 - [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://amzn.to/2nFocI1) [history]
-
 
 #### Practice
 
@@ -172,7 +169,7 @@
 - [Programming for Artists (Ru) FREE](http://ptahi.ru/2016/02/07/programming-for-artists/)
 - [The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe](http://thebookofshaders.com/)
 - [Prototyping Interfaces: Interaktives Skizzieren mit vvvv](http://amzn.to/2p7FMJy) [vvvv]
-
+- [Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play](https://amzn.to/33VB6Nb) [ml, gan]
 
 ### Courses
 
@@ -265,12 +262,9 @@
 - [Make magazine](http://makezine.com/)
 - [The MagPi magazine](https://www.raspberrypi.org/magpi/)
 
-
-
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
@@ -280,6 +274,7 @@ To the extent possible under law, Kosmos has waived all copyright and
 related or neighboring rights to this work.
 
 ## Support on Beerpay
+
 Hey dude! Help me out for a couple of :beers:!
 
-[![Beerpay](https://beerpay.io/kosmos/awesome-generative-art/badge.svg?style=beer-square)](https://beerpay.io/kosmos/awesome-generative-art)  [![Beerpay](https://beerpay.io/kosmos/awesome-generative-art/make-wish.svg?style=flat-square)](https://beerpay.io/kosmos/awesome-generative-art?focus=wish)
+[![Beerpay](https://beerpay.io/kosmos/awesome-generative-art/badge.svg?style=beer-square)](https://beerpay.io/kosmos/awesome-generative-art) [![Beerpay](https://beerpay.io/kosmos/awesome-generative-art/make-wish.svg?style=flat-square)](https://beerpay.io/kosmos/awesome-generative-art?focus=wish)
