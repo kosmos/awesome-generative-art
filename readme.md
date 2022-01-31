@@ -132,10 +132,10 @@
 - [Make: Getting Started with p5.js](http://amzn.to/2A4hDte) [p5.js]
 - [Make: Getting Started with Processing.py](http://amzn.to/2igtIQT) [processing.py]
 - [Learning Processing, Second Edition: A Beginner's Guide to Programming Images, Animation, and Interaction](http://amzn.to/2nYUijx) [processing]
-- [The Nature of Code: Simulating Natural Systems with Processing](http://amzn.to/2oEmafF) [processing]
+- [The Nature of Code: Simulating Natural Systems with Processing](https://amzn.to/3Hu4OHH) [processing]
 - [Visualizing Data](http://amzn.to/2p2j29Y)
 - [The SparkFun Guide to Processing](http://amzn.to/2oEtQOS)
-- [Processing: Creative Coding and Generative Art in Processing 2](http://amzn.to/2nc3nrY)
+- [Processing: Creative Coding and Generative Art in Processing 2](https://amzn.to/34mOR7q)
 - [Processing for Visual Artists: How to Create Expressive Images and Interactive Art](http://amzn.to/2oEdTZ5) [processing]
 - [Processing: Creative Coding and Computational Art (Foundation)](http://amzn.to/2oEoPpI) [processing]
 - [The Essential Guide to Processing for Flash Developers](http://amzn.to/2oErakj) [processing]
@@ -173,6 +173,7 @@
 - [Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play](https://amzn.to/33VB6Nb) [ml, gan]
 - [GANs in Action: Deep learning with Generative Adversarial Networks](https://amzn.to/3o5SrtB) [ml, gan]
 - [Generative AI with Python and TensorFlow 2: Create images, text, and music with VAEs, GANs, LSTMs, Transformer models](https://amzn.to/3AKTbcH) [ml, gan]
+- [Hands-On Image Generation with TensorFlow: A practical guide to generating images and videos using deep learning](https://amzn.to/3AMywVq) [ml, gan]
 - [Generative Art: Algorithms as Artistic Tool (Art & Artists)](https://amzn.to/3Geuk2b)
 - [Coding Art: The Four Steps to Creative Programming with the Processing Language (Design Thinking)](https://amzn.to/3KW5DuF) [processing]
 
