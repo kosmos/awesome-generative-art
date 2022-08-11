@@ -44,7 +44,7 @@
 ### Frameworks, libraries, engines, languages
 
 - [Processing](https://processing.org/) [Mac, Win, Linux, Android]
-- [Processing Python Mode](https://py.processing.org/) [Mac, Win, Linux]
+- [py5](https://py5.ixora.io/) [Mac, Win, Linux]
 - [OpenFrameworks](http://openframeworks.cc/) [Mac, Win, Linux, iOS, Android]
 - [Cinder](https://libcinder.org/) [Mac, Win, Linux, iOS, Android]
 - [three.js](https://threejs.org/) [Web]
@@ -122,7 +122,7 @@
 - [The World of Digital Art](http://amzn.to/2nRPHmt) [history]
 - [Form+Code in Design, Art, and Architecture](http://amzn.to/2oDxLdS) [history]
 - [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://amzn.to/2nFocI1) [history]
-- [Code as Creative Medium: A Handbook for Computational Art and Design](https://amzn.to/3u96jqD) history]
+- [Code as Creative Medium: A Handbook for Computational Art and Design](https://amzn.to/3u96jqD) [history]
 
 #### Practice
 
