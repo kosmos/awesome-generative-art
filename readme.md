@@ -69,7 +69,7 @@
 - [DXV codec](https://resolume.com/download/) [Mac, Win]
 - [HAP codec](https://github.com/Vidvox/hap-qt-codec) [Mac, Win]
 
-### Seqensors
+### Sequencers
 
 - [Vezér](http://imimot.com/vezer/) [Mac]
 - [Ableton Live](https://www.ableton.com/) [Mac, Win]
@@ -83,6 +83,7 @@
 - [TidalCycles](https://tidalcycles.org/) [Mac, Win, Linux]
 - [Sonic Pi](http://sonic-pi.net/) [Mac, Win, Linux, Raspberry Pi]
 - [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) [Mac, Win]
+- [Dittytoy](https://dittytoy.net/) [Web]
 
 ### Software controllers
 
@@ -92,6 +93,8 @@
 
 - [Syphon](http://syphon.v002.info/) [Mac]
 - [Spout](http://spout.zeal.co/) [Win]
+- [Shadertoy](http://shadertoy.com/) [Web]
+- [Turtletoy](http://turtletoy.net/) [Web]
 
 ### Hardware
 
