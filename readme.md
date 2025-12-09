@@ -83,6 +83,7 @@
 - [TidalCycles](https://tidalcycles.org/) [Mac, Win, Linux]
 - [Sonic Pi](http://sonic-pi.net/) [Mac, Win, Linux, Raspberry Pi]
 - [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) [Mac, Win]
+- [Dittytoy](http://dittytoy.net/) [Web]
 
 ### Software controllers
 
