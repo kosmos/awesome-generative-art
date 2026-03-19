@@ -218,6 +218,7 @@
 - [Create Digital Music/Motion](http://cdm.link/)
 - [Field](https://www.field.io/)
 - [Lumen](http://lumen.club/)
+- [Lumitree](https://lumitree.art/) — A collaborative art tree where visitors plant seeds that grow into unique interactive micro-worlds (Canvas 2D, WebGL shaders, Web Audio) under 50KB with zero dependencies.
 
 ## Selected artists
 
