@@ -4,6 +4,7 @@
 
 > Manually curated collection of Generative Art resources, tools and shiny things.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for generative art workflow orchestration, automated creative pipeline management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Tools](#tools)
