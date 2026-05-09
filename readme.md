@@ -63,6 +63,7 @@
 - [MadMapper](http://www.madmapper.com/) [Mac]
 - [Mitti](http://imimot.com/mitti/) [Mac]
 - [TouchViZ](https://hexler.net/software/touchviz) [iOS]
+- [Vizz.fm](https://vizz.fm) [Web]
 
 ### Codecs
 
