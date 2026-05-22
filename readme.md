@@ -210,6 +210,7 @@
 - [Games, Sensors and Media](https://www.coursera.org/learn/games) [ios]
 - [How Virtual Reality (VR) Works](https://www.edx.org/course/how-virtual-reality-vr-works-uc-san-diegox-cse165x-0) [vr]
 - [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291) [3d, webgl, three.js]
+- [TutorialSearch](https://tutorialsearch.io/browse/ai-machine-learning/generative-ai) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Websites
 
