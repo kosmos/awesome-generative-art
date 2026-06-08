@@ -92,6 +92,7 @@
 
 - [Syphon](http://syphon.v002.info/) [Mac]
 - [Spout](http://spout.zeal.co/) [Win]
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agent wallets on Solana. Verify agent identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ### Hardware
 
