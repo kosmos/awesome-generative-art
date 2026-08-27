@@ -53,6 +53,7 @@
 - [Scriptographer](https://scriptographer.org/)
 - [Unity](https://unity3d.com/) [Mac, Win]
 - [KodeLife](https://hexler.net/software/kodelife) [Mac, Win, Linux]
+- [Phluxel](https://phluxel.com/) [Win] - Cellular automata studio: paint a pixel grid, write one rule, export the loop as GIF/MP4/sprite sheet.
 
 ### Vjing software
 
