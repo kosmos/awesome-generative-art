@@ -212,6 +212,7 @@
 - [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291) [3d, webgl, three.js]
 
 ## Websites
+- [Raphael AI](https://raphael.app) - Free unlimited AI image generator (text-to-image, no signup)
 
 - [Creative Applications Network](http://creativeapplications.net/)
 - [OpenProcessing](https://www.openprocessing.org/)
