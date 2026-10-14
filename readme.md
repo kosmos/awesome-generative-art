@@ -92,6 +92,10 @@
 
 - [Syphon](http://syphon.v002.info/) [Mac]
 - [Spout](http://spout.zeal.co/) [Win]
+- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) [Web]
+    Scheduled pipeline that generates layered shadow-box mandala SVGs
+    procedurally - one vector file per physical layer plus a combined
+    design, published as a free public catalog.
 
 ### Hardware
 
