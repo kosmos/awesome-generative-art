@@ -92,7 +92,8 @@
 
 - [Syphon](http://syphon.v002.info/) [Mac]
 - [Spout](http://spout.zeal.co/) [Win]
-
+- [pixelsort](https://github.com/Renaissancexbt/pixelsort) [Web, Python]
+  
 ### Hardware
 
 #### Platforms
