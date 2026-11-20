@@ -212,6 +212,7 @@
 - [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291) [3d, webgl, three.js]
 
 ## Websites
+- [Yuanmingyuan Digital Restoration](https://ivan666jjj.github.io/yuanmingyuan-restoration/) - Reference-driven AI reconstruction of the Yuanmingyuan gardens, published as an open atlas. [Repo](https://github.com/Ivan666jjj/yuanmingyuan-restoration).
 
 - [Creative Applications Network](http://creativeapplications.net/)
 - [OpenProcessing](https://www.openprocessing.org/)
